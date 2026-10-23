@@ -1,0 +1,53 @@
+name: Verfprijzen ophalen
+
+on:
+  schedule:
+    - cron: "43 4 * * *"   # elke dag rond 05:43/06:43 Nederlandse tijd (UTC 04:43)
+  workflow_dispatch:        # handmatig starten via tabblad Actions -> Run workflow
+
+permissions:
+  contents: write
+
+concurrency:
+  group: verfprijzen
+  cancel-in-progress: false
+
+jobs:
+  ophalen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Benodigdheden installeren
+        run: pip install -r requirements.txt
+
+      - name: Prijzen ophalen
+        run: python scrape.py
+
+      - name: Debug-pagina's bewaren als iets niet lukte
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-html
+          path: debug/
+          if-no-files-found: ignore
+          retention-days: 7
+
+      - name: Wijzigingen opslaan in de repo
+        if: always()
+        run: |
+          git config user.name "verfprijzen-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "Geen wijzigingen."
+          else
+            git commit -m "Prijzen bijgewerkt $(TZ=Europe/Amsterdam date +%F)"
+            git push
+          fi
