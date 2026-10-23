@@ -1,0 +1,19 @@
+{
+  "winkel": "verfwinkel.nl",
+  "btw": 0.21,
+  "producten": [
+    {"id": "sigma-s2u-nova-satin", "merk": "Sigma", "naam": "Sigma S2U Nova Satin", "url": "https://www.verfwinkel.nl/sigma-s2u-nova-satin.html"},
+    {"id": "sigma-s2u-nova-matt", "merk": "Sigma", "naam": "Sigma S2U Nova Matt", "url": "https://www.verfwinkel.nl/sigma-s2u-nova-matt.html"},
+    {"id": "sigma-s2u-nova-traplak", "merk": "Sigma", "naam": "Sigma S2U Nova Traplak Soft Satin", "url": "https://www.verfwinkel.nl/sigma-s2u-nova-traplak-soft-satin-online-kopen.html"},
+    {"id": "sigmatex-superlatex-mat", "merk": "Sigma", "naam": "Sigma Sigmatex Superlatex Matt", "url": "https://www.verfwinkel.nl/sigmatex-superlatex-mat.html"},
+    {"id": "sigma-pearl-clean-mat", "merk": "Sigma", "naam": "Sigma Pearl Clean Matt", "url": "https://www.verfwinkel.nl/sigmapearl-clean-mat.html"},
+    {"id": "sigma-perfect-matt", "merk": "Sigma", "naam": "Sigma Perfect Matt", "url": "https://www.verfwinkel.nl/sigma-perfect-matt.html"},
+    {"id": "sigma-wallprim", "merk": "Sigma", "naam": "Sigma Wallprim", "url": "https://www.verfwinkel.nl/sigma-wallprim.html"},
+    {"id": "sigmafix-universal", "merk": "Sigma", "naam": "Sigma Sigmafix Universal", "url": "https://www.verfwinkel.nl/sigmafix-universal.html"},
+    {"id": "progold-verfbak", "merk": "ProGold", "naam": "ProGold Verfbak / Rollerbak", "url": "https://www.verfwinkel.nl/progold-verfbak-rollerbak.html"},
+    {"id": "progold-allesreiniger", "merk": "ProGold", "naam": "ProGold Allesreiniger", "url": "https://www.verfwinkel.nl/allesreiniger.html"}
+  ],
+  "zoek_in_sitemap": {
+    "progold": 8
+  }
+}
