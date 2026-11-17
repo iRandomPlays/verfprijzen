@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-11-16T14:13:45+01:00",
+  "bijgewerkt": "2026-11-17T14:56:22+01:00",
   "winkel": "verfwinkel.nl",
   "btw": 0.21,
   "prijzen_zijn": "incl. btw zoals op de site (particulier); excl. = incl / (1 + btw)",
@@ -10,55 +10,55 @@
       "naam": "Sigma S2U Nova Satin",
       "url": "https://www.verfwinkel.nl/sigma-s2u-nova-satin.html",
       "winkel": "verfwinkel.nl",
-      "opgehaald": "2026-11-16T14:10:20+01:00",
+      "opgehaald": "2026-11-17T14:52:28+01:00",
       "status": "ok",
       "pagina_naam": "Sigma S2U Nova Satin",
       "sku": "VW-SG1039",
       "ean": null,
-      "vanaf_incl": 41.7,
-      "vanaf_excl": 34.46,
+      "vanaf_incl": 42.25,
+      "vanaf_excl": 34.92,
       "varianten": [
         {
           "label": "500 ml Kleur",
-          "incl": 41.7,
+          "incl": 42.25,
           "liter": 0.5,
-          "excl": 34.46
+          "excl": 34.92
         },
         {
           "label": "500 ml Donkere kleur",
-          "incl": 41.7,
+          "incl": 42.25,
           "liter": 0.5,
-          "excl": 34.46
+          "excl": 34.92
         },
         {
           "label": "1 liter Kleur",
-          "incl": 68.19,
+          "incl": 68.75,
           "liter": 1.0,
-          "excl": 56.36
+          "excl": 56.82
         },
         {
           "label": "1 liter Donkere kleur",
-          "incl": 68.19,
+          "incl": 68.75,
           "liter": 1.0,
-          "excl": 56.36
+          "excl": 56.82
         },
         {
           "label": "2,5 liter Kleur",
-          "incl": 170.9,
+          "incl": 172.5,
           "liter": 2.5,
-          "excl": 141.24
+          "excl": 142.56
         },
         {
           "label": "2,5 Liter Donkere kleur",
-          "incl": 170.9,
+          "incl": 172.5,
           "liter": 2.5,
-          "excl": 141.24
+          "excl": 142.56
         }
       ],
       "methode": "json-ld+magento-varianten",
       "verbruik_m2_per_liter": 10.0,
-      "laatst_ok": "2026-11-16T14:10:20+01:00",
-      "verschil_incl": 0.0
+      "laatst_ok": "2026-11-17T14:52:28+01:00",
+      "verschil_incl": 0.55
     },
     {
       "id": "sigma-s2u-nova-matt",
@@ -66,55 +66,55 @@
       "naam": "Sigma S2U Nova Matt",
       "url": "https://www.verfwinkel.nl/sigma-s2u-nova-matt.html",
       "winkel": "verfwinkel.nl",
-      "opgehaald": "2026-11-16T14:11:01+01:00",
+      "opgehaald": "2026-11-17T14:52:38+01:00",
       "status": "ok",
       "pagina_naam": "Sigma S2U Nova Matt",
       "sku": "VW-SG1037",
       "ean": null,
-      "vanaf_incl": 43.7,
-      "vanaf_excl": 36.12,
+      "vanaf_incl": 44.25,
+      "vanaf_excl": 36.57,
       "varianten": [
         {
           "label": "500 ml Kleur",
-          "incl": 43.7,
+          "incl": 44.25,
           "liter": 0.5,
-          "excl": 36.12
+          "excl": 36.57
         },
         {
           "label": "500 ml Donkere kleur",
-          "incl": 43.7,
+          "incl": 44.25,
           "liter": 0.5,
-          "excl": 36.12
+          "excl": 36.57
         },
         {
           "label": "1 liter Kleur",
-          "incl": 70.2,
+          "incl": 70.95,
           "liter": 1.0,
-          "excl": 58.02
+          "excl": 58.64
         },
         {
           "label": "1 liter Donkere kleur",
-          "incl": 70.2,
+          "incl": 70.95,
           "liter": 1.0,
-          "excl": 58.02
+          "excl": 58.64
         },
         {
           "label": "2,5 liter Kleur",
-          "incl": 174.9,
+          "incl": 176.5,
           "liter": 2.5,
-          "excl": 144.55
+          "excl": 145.87
         },
         {
           "label": "2,5 Liter Donkere kleur",
-          "incl": 174.9,
+          "incl": 176.5,
           "liter": 2.5,
-          "excl": 144.55
+          "excl": 145.87
         }
       ],
       "methode": "json-ld+magento-varianten",
       "verbruik_m2_per_liter": 11.0,
-      "laatst_ok": "2026-11-16T14:11:01+01:00",
-      "verschil_incl": 0.0
+      "laatst_ok": "2026-11-17T14:52:38+01:00",
+      "verschil_incl": 0.55
     },
     {
       "id": "sigma-s2u-nova-traplak",
@@ -122,49 +122,49 @@
       "naam": "Sigma S2U Nova Traplak Soft Satin",
       "url": "https://www.verfwinkel.nl/sigma-s2u-nova-traplak-soft-satin-online-kopen.html",
       "winkel": "verfwinkel.nl",
-      "opgehaald": "2026-11-16T14:11:11+01:00",
+      "opgehaald": "2026-11-17T14:52:48+01:00",
       "status": "ok",
       "pagina_naam": "Sigma S2U Nova Traplak Soft Satin",
       "sku": "VW-SG1044",
       "ean": null,
-      "vanaf_incl": 42.7,
-      "vanaf_excl": 35.29,
+      "vanaf_incl": 43.25,
+      "vanaf_excl": 35.74,
       "varianten": [
         {
           "label": "500 ml Kleur",
-          "incl": 42.7,
+          "incl": 43.25,
           "liter": 0.5,
-          "excl": 35.29
+          "excl": 35.74
         },
         {
           "label": "500 ml Donkere kleur",
-          "incl": 42.7,
+          "incl": 43.25,
           "liter": 0.5,
-          "excl": 35.29
+          "excl": 35.74
         },
         {
           "label": "1 liter Kleur",
-          "incl": 67.7,
+          "incl": 68.25,
           "liter": 1.0,
-          "excl": 55.95
+          "excl": 56.4
         },
         {
           "label": "1 liter Donkere kleur",
-          "incl": 67.7,
+          "incl": 68.25,
           "liter": 1.0,
-          "excl": 55.95
+          "excl": 56.4
         },
         {
           "label": "2,5 liter Kleur",
-          "incl": 170.9,
+          "incl": 172.5,
           "liter": 2.5,
-          "excl": 141.24
+          "excl": 142.56
         }
       ],
       "methode": "json-ld+magento-varianten",
       "verbruik_m2_per_liter": 10.0,
-      "laatst_ok": "2026-11-16T14:11:11+01:00",
-      "verschil_incl": 0.0
+      "laatst_ok": "2026-11-17T14:52:48+01:00",
+      "verschil_incl": 0.55
     },
     {
       "id": "sigmatex-superlatex-mat",
@@ -172,67 +172,67 @@
       "naam": "Sigma Sigmatex Superlatex Matt",
       "url": "https://www.verfwinkel.nl/sigmatex-superlatex-mat.html",
       "winkel": "verfwinkel.nl",
-      "opgehaald": "2026-11-16T14:11:21+01:00",
+      "opgehaald": "2026-11-17T14:52:58+01:00",
       "status": "ok",
       "pagina_naam": "Sigma Sigmatex Superlatex Matt - Muurverf",
       "sku": "VW-SG1090",
       "ean": null,
-      "vanaf_incl": 22.7,
-      "vanaf_excl": 18.76,
+      "vanaf_incl": 22.95,
+      "vanaf_excl": 18.97,
       "varianten": [
         {
           "label": "1 liter Kleur",
-          "incl": 22.7,
+          "incl": 22.95,
           "liter": 1.0,
-          "excl": 18.76
+          "excl": 18.97
         },
         {
           "label": "1 liter Donkere kleur",
-          "incl": 29.75,
+          "incl": 30.25,
           "liter": 1.0,
-          "excl": 24.59
+          "excl": 25.0
         },
         {
           "label": "2,5 liter Kleur",
-          "incl": 53.2,
+          "incl": 53.75,
           "liter": 2.5,
-          "excl": 43.97
+          "excl": 44.42
         },
         {
           "label": "2,5 Liter Donkere kleur",
-          "incl": 69.25,
+          "incl": 69.95,
           "liter": 2.5,
-          "excl": 57.23
+          "excl": 57.81
         },
         {
           "label": "5 liter Kleur",
-          "incl": 103.45,
+          "incl": 104.5,
           "liter": 5.0,
-          "excl": 85.5
+          "excl": 86.36
         },
         {
           "label": "10 liter Kleur",
-          "incl": 115.5,
+          "incl": 116.5,
           "liter": 10.0,
-          "excl": 95.45
+          "excl": 96.28
         },
         {
           "label": "5 liter Donkere kleur",
-          "incl": 134.5,
+          "incl": 135.75,
           "liter": 5.0,
-          "excl": 111.16
+          "excl": 112.19
         },
         {
           "label": "10 liter Donkere kleur",
-          "incl": 150.25,
+          "incl": 151.5,
           "liter": 10.0,
-          "excl": 124.17
+          "excl": 125.21
         }
       ],
       "methode": "json-ld+magento-varianten",
       "verbruik_m2_per_liter": 7.0,
-      "laatst_ok": "2026-11-16T14:11:21+01:00",
-      "verschil_incl": 0.0
+      "laatst_ok": "2026-11-17T14:52:58+01:00",
+      "verschil_incl": 0.25
     },
     {
       "id": "sigma-pearl-clean-mat",
@@ -240,67 +240,67 @@
       "naam": "Sigma Pearl Clean Matt",
       "url": "https://www.verfwinkel.nl/sigmapearl-clean-mat.html",
       "winkel": "verfwinkel.nl",
-      "opgehaald": "2026-11-16T14:11:32+01:00",
+      "opgehaald": "2026-11-17T14:53:08+01:00",
       "status": "ok",
       "pagina_naam": "Sigma Pearl Clean Matt - Afwasbare muurverf",
       "sku": "VW-SG1084",
       "ean": null,
-      "vanaf_incl": 26.95,
-      "vanaf_excl": 22.27,
+      "vanaf_incl": 27.25,
+      "vanaf_excl": 22.52,
       "varianten": [
         {
           "label": "1 liter Kleur",
-          "incl": 26.95,
+          "incl": 27.25,
           "liter": 1.0,
-          "excl": 22.27
+          "excl": 22.52
         },
         {
           "label": "1 liter Donkere kleur",
-          "incl": 26.95,
+          "incl": 27.25,
           "liter": 1.0,
-          "excl": 22.27
+          "excl": 22.52
         },
         {
           "label": "2,5 liter Kleur",
-          "incl": 60.95,
+          "incl": 61.5,
           "liter": 2.5,
-          "excl": 50.37
+          "excl": 50.83
         },
         {
           "label": "2,5 Liter Donkere kleur",
-          "incl": 60.95,
+          "incl": 61.5,
           "liter": 2.5,
-          "excl": 50.37
+          "excl": 50.83
         },
         {
           "label": "5 liter Kleur",
-          "incl": 112.5,
+          "incl": 113.5,
           "liter": 5.0,
-          "excl": 92.98
+          "excl": 93.8
         },
         {
           "label": "5 liter Donkere kleur",
-          "incl": 112.5,
+          "incl": 113.5,
           "liter": 5.0,
-          "excl": 92.98
+          "excl": 93.8
         },
         {
           "label": "10 liter Kleur",
-          "incl": 199.5,
+          "incl": 201.25,
           "liter": 10.0,
-          "excl": 164.88
+          "excl": 166.32
         },
         {
           "label": "10 liter Donkere kleur",
-          "incl": 243.5,
+          "incl": 245.5,
           "liter": 10.0,
-          "excl": 201.24
+          "excl": 202.89
         }
       ],
       "methode": "json-ld+magento-varianten",
       "verbruik_m2_per_liter": 8.0,
-      "laatst_ok": "2026-11-16T14:11:32+01:00",
-      "verschil_incl": 0.0
+      "laatst_ok": "2026-11-17T14:53:08+01:00",
+      "verschil_incl": 0.3
     },
     {
       "id": "sigma-perfect-matt",
@@ -308,7 +308,7 @@
       "naam": "Sigma Perfect Matt",
       "url": "https://www.verfwinkel.nl/sigma-perfect-matt.html",
       "winkel": "verfwinkel.nl",
-      "opgehaald": "2026-11-16T14:11:42+01:00",
+      "opgehaald": "2026-11-17T14:53:18+01:00",
       "status": "ok",
       "pagina_naam": "Sigma Perfect Matt - Muurverf",
       "sku": "VW-SG1028",
@@ -367,7 +367,7 @@
       ],
       "methode": "json-ld+magento-varianten",
       "verbruik_m2_per_liter": 8.0,
-      "laatst_ok": "2026-11-16T14:11:42+01:00",
+      "laatst_ok": "2026-11-17T14:53:18+01:00",
       "verschil_incl": 0.0
     },
     {
@@ -376,7 +376,7 @@
       "naam": "Sigma Wallprim",
       "url": "https://www.verfwinkel.nl/sigma-wallprim.html",
       "winkel": "verfwinkel.nl",
-      "opgehaald": "2026-11-16T14:11:52+01:00",
+      "opgehaald": "2026-11-17T14:53:28+01:00",
       "status": "ok",
       "pagina_naam": "Sigma Wallprim",
       "sku": "VW-SG1071",
@@ -399,7 +399,7 @@
       ],
       "methode": "json-ld+magento-varianten",
       "verbruik_m2_per_liter": null,
-      "laatst_ok": "2026-11-16T14:11:52+01:00",
+      "laatst_ok": "2026-11-17T14:53:28+01:00",
       "verschil_incl": 0.0
     },
     {
@@ -408,7 +408,7 @@
       "naam": "Sigma Sigmafix Universal",
       "url": "https://www.verfwinkel.nl/sigmafix-universal.html",
       "winkel": "verfwinkel.nl",
-      "opgehaald": "2026-11-16T14:12:02+01:00",
+      "opgehaald": "2026-11-17T14:53:38+01:00",
       "status": "ok",
       "pagina_naam": "Sigma Sigmafix Universal",
       "sku": "VW-SG1073",
@@ -437,7 +437,7 @@
       ],
       "methode": "json-ld+magento-varianten",
       "verbruik_m2_per_liter": null,
-      "laatst_ok": "2026-11-16T14:12:02+01:00",
+      "laatst_ok": "2026-11-17T14:53:38+01:00",
       "verschil_incl": 0.0
     },
     {
@@ -446,7 +446,7 @@
       "naam": "ProGold Verfbak / Rollerbak",
       "url": "https://www.verfwinkel.nl/progold-verfbak-rollerbak.html",
       "winkel": "verfwinkel.nl",
-      "opgehaald": "2026-11-16T14:12:11+01:00",
+      "opgehaald": "2026-11-17T14:53:47+01:00",
       "status": "ok",
       "pagina_naam": "ProGold Verfbak",
       "sku": "VW-PG1202",
@@ -475,7 +475,7 @@
       ],
       "methode": "json-ld+magento-varianten",
       "verbruik_m2_per_liter": null,
-      "laatst_ok": "2026-11-16T14:12:11+01:00",
+      "laatst_ok": "2026-11-17T14:53:47+01:00",
       "verschil_incl": 0.0
     },
     {
@@ -484,7 +484,7 @@
       "naam": "ProGold Allesreiniger",
       "url": "https://www.verfwinkel.nl/allesreiniger.html",
       "winkel": "verfwinkel.nl",
-      "opgehaald": "2026-11-16T14:12:21+01:00",
+      "opgehaald": "2026-11-17T14:53:57+01:00",
       "status": "ok",
       "pagina_naam": "ProGold Allesreiniger",
       "sku": "VW-PG1134",
@@ -507,7 +507,7 @@
       ],
       "methode": "json-ld+magento-varianten",
       "verbruik_m2_per_liter": null,
-      "laatst_ok": "2026-11-16T14:12:21+01:00",
+      "laatst_ok": "2026-11-17T14:53:57+01:00",
       "verschil_incl": 0.0
     },
     {
@@ -516,7 +516,7 @@
       "naam": "Progold Kwasten",
       "url": "https://www.verfwinkel.nl/merken/pg/progold-kwasten.html",
       "winkel": "verfwinkel.nl",
-      "opgehaald": "2026-11-16T14:12:30+01:00",
+      "opgehaald": "2026-11-17T14:54:06+01:00",
       "status": "ok",
       "pagina_naam": "ProGold Blokwitter - Serie 7910",
       "sku": "VW-PG1153",
@@ -526,7 +526,7 @@
       "varianten": [],
       "methode": "json-ld",
       "verbruik_m2_per_liter": null,
-      "laatst_ok": "2026-11-16T14:12:30+01:00",
+      "laatst_ok": "2026-11-17T14:54:06+01:00",
       "verschil_incl": 0.0
     },
     {
@@ -535,7 +535,7 @@
       "naam": "Progold Acryl Exterior",
       "url": "https://www.verfwinkel.nl/progold-acryl-exterior.html",
       "winkel": "verfwinkel.nl",
-      "opgehaald": "2026-11-16T14:12:40+01:00",
+      "opgehaald": "2026-11-17T14:54:16+01:00",
       "status": "ok",
       "pagina_naam": "ProGold Acryl Exterior - Kit",
       "sku": "VW-PG1004",
@@ -564,7 +564,7 @@
       ],
       "methode": "json-ld+magento-varianten",
       "verbruik_m2_per_liter": null,
-      "laatst_ok": "2026-11-16T14:12:40+01:00",
+      "laatst_ok": "2026-11-17T14:54:16+01:00",
       "verschil_incl": 0.0
     },
     {
@@ -573,7 +573,7 @@
       "naam": "Progold Acrylfill W",
       "url": "https://www.verfwinkel.nl/progold-acrylfill-w.html",
       "winkel": "verfwinkel.nl",
-      "opgehaald": "2026-11-16T14:12:50+01:00",
+      "opgehaald": "2026-11-17T14:54:25+01:00",
       "status": "ok",
       "pagina_naam": "ProGold Acrylfill W",
       "sku": "VW-PG1006",
@@ -590,7 +590,7 @@
       ],
       "methode": "json-ld+magento-varianten",
       "verbruik_m2_per_liter": null,
-      "laatst_ok": "2026-11-16T14:12:50+01:00",
+      "laatst_ok": "2026-11-17T14:54:25+01:00",
       "verschil_incl": 0.0
     },
     {
@@ -599,7 +599,7 @@
       "naam": "Progold Afbreekmes Reserve Mes",
       "url": "https://www.verfwinkel.nl/progold-afbreekmes-reserve-mes.html",
       "winkel": "verfwinkel.nl",
-      "opgehaald": "2026-11-16T14:12:59+01:00",
+      "opgehaald": "2026-11-17T14:54:35+01:00",
       "status": "ok",
       "pagina_naam": "ProGold Afbreekmes - Reserve mes per 10 stuks",
       "sku": "VW-PG1188.1",
@@ -609,7 +609,7 @@
       "varianten": [],
       "methode": "json-ld",
       "verbruik_m2_per_liter": null,
-      "laatst_ok": "2026-11-16T14:12:59+01:00",
+      "laatst_ok": "2026-11-17T14:54:35+01:00",
       "verschil_incl": 0.0
     },
     {
@@ -618,7 +618,7 @@
       "naam": "Progold Afbreekmes",
       "url": "https://www.verfwinkel.nl/progold-afbreekmes.html",
       "winkel": "verfwinkel.nl",
-      "opgehaald": "2026-11-16T14:13:08+01:00",
+      "opgehaald": "2026-11-17T14:54:44+01:00",
       "status": "ok",
       "pagina_naam": "ProGold Afbreekmes",
       "sku": "VW-PG1174",
@@ -635,7 +635,7 @@
       ],
       "methode": "json-ld+magento-varianten",
       "verbruik_m2_per_liter": null,
-      "laatst_ok": "2026-11-16T14:13:08+01:00",
+      "laatst_ok": "2026-11-17T14:54:44+01:00",
       "verschil_incl": 0.0
     },
     {
@@ -644,7 +644,7 @@
       "naam": "Progold Afdekvlies Etp 804600",
       "url": "https://www.verfwinkel.nl/progold-afdekvlies-etp-804600.html",
       "winkel": "verfwinkel.nl",
-      "opgehaald": "2026-11-16T14:13:17+01:00",
+      "opgehaald": "2026-11-17T14:54:53+01:00",
       "status": "ok",
       "pagina_naam": "ProGold Afdekvlies ETP",
       "sku": "VW-PG1010",
@@ -661,7 +661,7 @@
       ],
       "methode": "json-ld+magento-varianten",
       "verbruik_m2_per_liter": null,
-      "laatst_ok": "2026-11-16T14:13:17+01:00",
+      "laatst_ok": "2026-11-17T14:54:53+01:00",
       "verschil_incl": 0.0
     },
     {
@@ -670,7 +670,7 @@
       "naam": "Progold Behangborstel Fiber Wit",
       "url": "https://www.verfwinkel.nl/progold-behangborstel-fiber-wit.html",
       "winkel": "verfwinkel.nl",
-      "opgehaald": "2026-11-16T14:13:27+01:00",
+      "opgehaald": "2026-11-17T14:55:03+01:00",
       "status": "ok",
       "pagina_naam": "ProGold Behangborstel - Fiber Wit",
       "sku": "VW-PG1175",
@@ -687,7 +687,7 @@
       ],
       "methode": "json-ld+magento-varianten",
       "verbruik_m2_per_liter": null,
-      "laatst_ok": "2026-11-16T14:13:27+01:00",
+      "laatst_ok": "2026-11-17T14:55:03+01:00",
       "verschil_incl": 0.0
     },
     {
@@ -696,7 +696,7 @@
       "naam": "Progold Behangborstel Zwart",
       "url": "https://www.verfwinkel.nl/progold-behangborstel-zwart.html",
       "winkel": "verfwinkel.nl",
-      "opgehaald": "2026-11-16T14:13:36+01:00",
+      "opgehaald": "2026-11-17T14:55:42+01:00",
       "status": "ok",
       "pagina_naam": "ProGold Behangborstel - Zwart",
       "sku": "VW-PG1176",
@@ -713,7 +713,7 @@
       ],
       "methode": "json-ld+magento-varianten",
       "verbruik_m2_per_liter": null,
-      "laatst_ok": "2026-11-16T14:13:36+01:00",
+      "laatst_ok": "2026-11-17T14:55:42+01:00",
       "verschil_incl": 0.0
     }
   ]
